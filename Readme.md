@@ -11,7 +11,7 @@
 	<tr>
 		<td>
             <a href="https://github.com/guidsribeiro/appbank/graphs/contributors">
-              <img src="https://contrib.rocks/image?repo=guidsribeiro/appbank" />
+              <img src="https://contrib.rocks/image?repo=guidsribeiro/aboutgr" />
             </a>
         </td>
 	</tr>
