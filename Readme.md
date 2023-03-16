@@ -1,6 +1,6 @@
-# <p align="center"> Nome do Repositório 📝</p> 
+# <p align="center"> HBank 💰</p> 
 
-### <div align="center"><code> Descrição do Projeto </code></div>
+### <div align="center"><code> Meu primeiro aplicativo em React-Native </code></div>
  
 
 -------------------------------------------------------------------------------------------------------------------------------------------
