@@ -1,7 +1,10 @@
 # <p align="center"> HBank 💰</p> 
 
 ### <div align="center"><code> Meu primeiro aplicativo em React-Native </code></div>
- 
+
+<div align="center">
+    <b><a href="https://www.figma.com/file/Y1XXMk1CSBxNg1SiHLuM40/Banking-App-(Community)?node-id=21%3A301&t=VYytTnb2YAnhnF5W-0">Site do modelo e desenho do projeto!</a></b>
+</div> 
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
